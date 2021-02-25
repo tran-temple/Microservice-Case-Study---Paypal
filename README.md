@@ -1,6 +1,6 @@
 ## The selected topic:
 
-## Option #7:  PayPal: Case study of removing PayPal Monolith application to microservices-based
+**Option #7:  PayPal: Case study of removing PayPal Monolith application to microservices-based**
 
 “When PayPal worked with a monolithic architecture, one app did everything. Duplications were common, while teams copy-pasted and tweaked code all the time —and development was like working on an assembly line. Not much was being done. Discuss how Node.js and an all-JavaScript development stack helped PayPal bring efficiencies in engineering and helped rethink and reboot product, design, and operational thinking from a more microservice-based architecture.”
 
